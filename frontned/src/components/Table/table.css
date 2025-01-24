@@ -1,0 +1,155 @@
+.choose-us-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  
+  .tables-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .table-container {
+    position: relative;
+    width: 160px;
+    height: 160px; /* Ensures space for chairs around the table */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .table-box {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff;
+    transition: transform 0.3s, background-color 0.3s;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .chair {
+    width: 20px;
+    height: 20px;
+    background-color: #666;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: center center;
+    display: none;
+  }
+  
+  .table-container.selected .chair {
+    display: block;
+  }
+  
+  .chair:nth-child(1) {
+    transform: translate(-50%, -50%) rotate(0deg) translate(80px) rotate(0deg);
+  }
+  
+  .chair:nth-child(2) {
+    transform: translate(-50%, -50%) rotate(90deg) translate(80px) rotate(-90deg);
+  }
+  
+  .chair:nth-child(3) {
+    transform: translate(-50%, -50%) rotate(180deg) translate(80px) rotate(-180deg);
+  }
+  
+  .chair:nth-child(4) {
+    transform: translate(-50%, -50%) rotate(270deg) translate(80px) rotate(-270deg);
+  }
+  
+  /* Additional styles for chairs if the capacity is higher */
+  .chair:nth-child(5) {
+    transform: translate(-50%, -50%) rotate(45deg) translate(80px) rotate(-45deg);
+  }
+  
+  .chair:nth-child(6) {
+    transform: translate(-50%, -50%) rotate(135deg) translate(80px) rotate(-135deg);
+  }
+  
+  .chair:nth-child(7) {
+    transform: translate(-50%, -50%) rotate(225deg) translate(80px) rotate(-225deg);
+  }
+  
+  .chair:nth-child(8) {
+    transform: translate(-50%, -50%) rotate(315deg) translate(80px) rotate(-315deg);
+  }
+  
+  .table-box.available {
+    background-color: #28a745;
+  }
+  
+  .table-box.occupied {
+    background-color: #dc3545;
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+  
+  .table-box.selected {
+    box-shadow: 0 0 20px #007bff;
+    transform: scale(1.15);
+  }
+  
+  .table-box:hover:not(.occupied) {
+    transform: scale(1.1);
+  }
+  
+  .reservation-form {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .reservation-form h4 {
+    margin-bottom: 15px;
+    color: #fff;
+  }
+  
+  .reservation-form label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #fff;
+  }
+  
+  .reservation-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .reservation-form button {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .reservation-form button:hover {
+    background-color: #0056b3;
+  }
+  

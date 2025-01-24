@@ -1,0 +1,101 @@
+.auth-page {
+    background-color: #141124; /* Arrière-plan noir */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .auth-container {
+    max-width: 400px;
+    width: 100%;
+    padding: 30px;
+    background-color: #1f1b2e;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .auth-container:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+  }
+  
+  .auth-container h2 {
+    color: #f5b70a;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .form-group label {
+    display: block;
+    color: #f5b70a;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #2c2a4a;
+    color: #fff;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .form-group input:focus {
+    outline: none;
+    border-color: #f5b70a;
+    box-shadow: 0 0 8px rgba(245, 183, 10, 0.5);
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #f5b70a;
+    border: none;
+    border-radius: 5px;
+    color: #141124;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e0a806;
+    transform: translateY(-3px);
+  }
+  
+  .extra-links {
+    margin-top: 15px;
+  }
+  
+  .extra-links a {
+    color: #f5b70a;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .extra-links a:hover {
+    color: #e0a806;
+    text-decoration: underline;
+  }
+  
+  /* Styles spécifiques pour la page de connexion */
+  .login-page {
+    background-color: #1a1a2e;
+  }
+  
+  /* Styles spécifiques pour la page d'inscription */
+  .register-page {
+    background-color: #2a2a4e;
+  }

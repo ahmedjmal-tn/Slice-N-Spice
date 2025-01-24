@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\gestion resraurant.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\gestion resraurant.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\gestion resraurant.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\gestion resraurant.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\gestion resraurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\gestion resraurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\models\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\models\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|c:\\users\\lenovo\\source\\repos\\gestion resraurant\\gestion resraurant\\gestion resraurant\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C5873E-17FF-4FE4-9F6F-B277C0543D20}|Gestion Resraurant\\Gestion Resraurant.csproj|solutionrelative:gestion resraurant\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:25:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\ICartRepository.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:24:56.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\CartService.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\CartService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\CartService.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\CartService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:24:23.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\IOrderService.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:24:19.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\ICartService.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\ICartService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\ICartService.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:23:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gestion Resraurant",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.csproj",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Gestion Resraurant.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.csproj",
+              "RelativeToolTip": "Gestion Resraurant\\Gestion Resraurant.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:33:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gestion Resraurant.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.csproj",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Gestion Resraurant.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.csproj",
+              "RelativeToolTip": "Gestion Resraurant\\Gestion Resraurant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:33:07.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gestion Resraurant.http",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.http",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Gestion Resraurant.http",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant.http",
+              "RelativeToolTip": "Gestion Resraurant\\Gestion Resraurant.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-19T21:29:48.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\WeatherForecast.cs",
+              "RelativeToolTip": "Gestion Resraurant\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:29:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Program.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:29:39.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gestion Resraurant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T21:29:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\appsettings.json",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\appsettings.json",
+              "RelativeToolTip": "Gestion Resraurant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T21:07:59.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\appsettings.Development.json",
+              "RelativeToolTip": "Gestion Resraurant\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T21:30:44.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Categorie.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:52:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\IFoodRepository.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\IFoodRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\IFoodRepository.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\IFoodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:30:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Repository\\FoodRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Repository\\FoodRepository.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Repository\\FoodRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:30:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Models\\Food.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Models\\Food.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:29:09.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:30:19.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:27:49.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:15:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategorieController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\CategorieController.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Controllers\\CategorieController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\CategorieController.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Controllers\\CategorieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:01:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Gestion Resraurant\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Gestion Resraurant\\Gestion Resraurant\\Gestion Resraurant\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Gestion Resraurant\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:00:36.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
